@@ -29,6 +29,8 @@ pationate with coding
 
 Install the script by adding the file path to the shell script
 
+add the following line to this file ~/bashrc
+
 ```bash
   alias gitpush="bash ~/direct-to-file/git_push.sh"
   alias gitcommit="bash ~/direct-to-file/git_commit.sh"
